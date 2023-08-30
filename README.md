@@ -1,2 +1,2 @@
-# smart-contract-security-notes
-My Detailed Notes on Smart Contract Security
+# Smart Contract Security Notes
+
