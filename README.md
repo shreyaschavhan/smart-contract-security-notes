@@ -1,5 +1,7 @@
 ## Smart Contract Security Notes
 
+> - `Started`: `05th Sept 2023`
+
 ### Blockchain Basics
 
 - What is blockchain?
