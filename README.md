@@ -11,4 +11,19 @@
 
 ---
 
-- 
+- Blocks in blockchain?
+> - Imagine it like a our usual envelop but in digital form.
+> - The envelop contains several transaction documents, the same thing is with the blocks.
+> - The envelop we use is also usually labelled with the name, date and other information, similarly, blocks have specific header information that's made of timestamp, a reference to the previous block, and a UID (unique identification number).
+
+---
+
+- What is mining in blockchain?
+> - Mining is the process of solving complex mathematical problems/puzzles to validate and add new transactions to the blockchain.
+> - Consider it like a competetive coding competition where a bunch of people (miners) compete with each other to solve (mine) a complex mathematical problem.
+> - The one who solves the problem first broadcasts his solution to the entire network of competitors, the competitors then validates if the solution is correct, if it's correct then the winner is selected and his get's the opportunity to add a new block to the blockchain, as well as get a reward for his efforts.
+
+---
+
+
+

@@ -9,3 +9,6 @@
 - [Mastering Ethereum](https://g.co/kgs/5bDmZA)
 - [Fundamentals of Smart Contract Security](https://g.co/kgs/jNPXrm)
 - [Hands-On Smart Contract Development with Solidity and Ethereum](https://g.co/kgs/AvRxns)
+
+- [Solidity Course](https://university.alchemy.com/overview/solidity)
+- [Blockchain Youtube](https://www.youtube.com/watch?list=PLYwpaL_SFmcDFRupamGc-9zc-vQqvkQnn)
