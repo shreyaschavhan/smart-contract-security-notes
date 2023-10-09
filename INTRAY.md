@@ -12,3 +12,31 @@
 
 - [Solidity Course](https://university.alchemy.com/overview/solidity)
 - [Blockchain Youtube](https://www.youtube.com/watch?list=PLYwpaL_SFmcDFRupamGc-9zc-vQqvkQnn)
+- Learn Solidity: https://www.youtube.com/watch?v=umepbfKp5rI
+- Math in solidity: https://medium.com/coinmonks/math-in-solidity-part-1-numbers-384c8377f26d
+- Invariant Testing WETH With Foundry: https://mirror.xyz/horsefacts.eth/Jex2YVaO65dda6zEyfM_-DXlXhOWCAoSpOx5PLocYgw
+- 
+
+---
+
+Twitter:
+- https://twitter.com/HollaWaldfee100
+- https://twitter.com/SoloditOfficial
+- https://twitter.com/chain_security
+- https://twitter.com/trust__90
+- https://twitter.com/hansfriese
+
+
+Tweets:
+- https://twitter.com/HollaWaldfee100/status/1697949052808110512
+
+
+Misc:
+
+- https://www.nand2tetris.org/
+
+
+
+## Advice
+
+- Read ALL past reports
